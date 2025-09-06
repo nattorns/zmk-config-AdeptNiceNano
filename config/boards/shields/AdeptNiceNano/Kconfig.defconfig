@@ -1,0 +1,6 @@
+if SHIELD_ADEPTNICENANO
+
+config ZMK_KEYBOARD_NAME
+    default "AdeptNiceNano"
+
+endif
