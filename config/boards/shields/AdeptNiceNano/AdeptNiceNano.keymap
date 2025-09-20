@@ -66,8 +66,8 @@
     scroll_hold_layer {
       display-name = "Scroll-Keep";
       bindings = <
-        &to DEFAULT &to DEFAULT &to DEFAULT &msc MOVE_UP
-        &to DEFAULT                         &msc MOVE_DOWN
+        &to DEFAULT &to DEFAULT &to DEFAULT &msc MOVE_DOWN
+        &to DEFAULT                         &msc MOVE_UP
       >;
     };
     device_layer {
