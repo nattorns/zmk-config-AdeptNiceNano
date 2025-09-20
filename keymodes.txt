@@ -1,0 +1,9 @@
+Btn1  Btn2  Btn3 Btn4
+Btn5             Btn6
+
+Default, Btn5=LCLK, Btn6=MCLK, Btn4=RCLK, 
+ScrollMomentary, Btn3 momentary press
+ScrollHold, Btn3 tap
+ConfigMode, Btn1
+    -bootloader, Btn1+Btn2
+    -Bt clear, Btn1+Btn3
